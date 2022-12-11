@@ -1,0 +1,13 @@
+/* REGOLI GENERALI */
+
+/* CONTAINER */
+.box{
+    width: 100%;
+    height: 50px;
+    background-color: #006cfa;
+    color: white;
+    text-align: center;
+    border: 1px solid white;
+}
+
+
